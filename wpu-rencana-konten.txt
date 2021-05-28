@@ -4,6 +4,7 @@ Rencana Konten baru
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Fundamental Data Structuresm
 - PHP Frameworks
   * Laravel
