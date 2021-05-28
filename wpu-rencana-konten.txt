@@ -5,7 +5,7 @@ Rencana Konten baru
   * Framework Javascript
     ^ Vue
     ^ React
-- Fundamental Data Structuresm
+- Fundamental Data Structures
 - PHP Frameworks
   * Laravel
 - Interview
